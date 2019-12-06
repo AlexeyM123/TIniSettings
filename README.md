@@ -18,3 +18,5 @@ begin
   Application.Terminate; 
   exit; 
 end;
+
+An example of TAppConfig is included
