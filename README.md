@@ -1,0 +1,2 @@
+# TIniSettings
+TIniSettings for FreePascal
